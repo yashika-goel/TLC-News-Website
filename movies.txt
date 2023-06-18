@@ -28,6 +28,8 @@
 <hr>
 <body>
 <p> <font face="arial"  size="6">
+<h1 align="center"><font size="7";color="black"> MOVIES </font></h1>
+<hr>
 <b> 1.	 We have not made Ramayana, we were only inspired by it: 'Adipurush' writer Manoj Muntashir </b><br> <img src="1.jpg" width="350" height="300"> </img> <br>
 <font size = "2">
 'Adipurush' writer Manoj Muntashir, in a recent interview, said, "We have not made Ramayana, we were only inspired by it. 
