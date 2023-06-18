@@ -1,0 +1,73 @@
+<html>
+<head>
+<title>TLC  News</title>
+<h1 align="center"><font size = "8"><font color = "Red" face = "League Spartan"><b>TLC</b></font><font color = "#000080" face = "Julius Sans One">News</font></font></h1>
+<body bgcolor="White">
+<font size = "6"> 
+<p align="center">
+<table border="0" Cellpadding="20" bgcolor="yellow">
+<tr>
+<th bgcolor="red"> <a href="home.html">HOME</a href="home.html"> 
+ <th> <a href="fashion.html">FASHION</a href="fashion.html"> 
+<th> <a href="travel.html">TRAVEL</a href="travel.html"> 
+<th> <a href="food.html">FOOD</a href="food.html"> 
+<th> <a href="lifestyle.html">LIFESTYLE</a href="lifestyle.html">
+<th> <a href="sports.html">SPORTS</a href="sports.html">
+<th> <a href="health.html">HEALTH</a href="health.html">
+<th> <a href="movies.html">MOVIES</a href="movies.html"> 
+<th> <a href="about us.html">ABOUT US</a href="about us.html">
+</tr>
+</table>
+</font> 
+</p>
+<h1 align="center"><font size = "7"><font color = "Orange" face = "aquawax" ><u>Today News Bulletins</u> </font></h1>
+<p>
+<marquee behaviour="scroll"> <b><Font Color = "Blue"> Breaking News: Miss Grand Argentina and Miss Grand Puerto Rico 2020 get married.  </b></marquee>
+<body align = "center">
+<p>
+<hr>
+<body>
+<p> <font face="arial"  size="6">
+<b> 1.	 Miss Grand Argentina and Miss Grand Puerto Rico 2020 get married </b><br> <img src="1.jpeg" width="350" height="300"> </img> <br>
+<font size = "2">
+Miss Grand International Argentina 2020 Mariana Varela and Miss Grand International Puerto Rico 2020 Fabiola Valentín announced their marriage on 
+social media by sharing a video. "After deciding to keep our relationship private, we opened the doors to it on a special day, 28/10/22," the caption read. 
+"Congratulations to both of you," Miss Grand International's Instagram profile said.
+
+</font>
+</p>
+<hr>
+<p>		
+<b> 2. Ex-Miss Barbados claims Miss World 2000 was 'rigged' to favour Priyanka </b><br>
+<img src="2.jpg" width="350" height="300"> </img> <br>
+<font size = "2">
+A YouTuber and former Miss Barbados 2000 alleged that the Miss World pageant of 2000, which Priyanka Chopra won, was "rigged". Leilani McConney 
+said the show was sponsored by ZeeTV, an Indian cable station, and alleged that Priyanka was 'favoured'. Leilani claimed in her video that 
+Priyanka's gowns were better made and she was even allowed food in her room.
+</font>
+</p>
+<hr>
+<p>
+<b> 3. India's Sargam Koushal crowned Mrs World 2022 </b><b>
+<img src="3.jfif" width="350" height="300"> </img> <br>
+<font size = "2">
+India's Sargam Koushal has been crowned Mrs World 2022 in an event that took place in Las Vegas. An Indian won the pageant for the first time since 2001.
+Actress Aditi Govitrikar, who won the title in 2001, wrote on Instagram, "Heartiest congratulations...so happy to have been part of the journey...it 
+was time the crown came back after 21 years."
+<br>
+</font>
+<hr>
+<br>
+</font>
+
+</p>
+
+
+
+<hr>
+<p align="center"> <font size = "2">
+Copyright 2023, All Right Reserved, www.tlcnewsofficial, Designed by : YASHIKA GOEL
+</font> 
+</p>
+</body>
+</html>

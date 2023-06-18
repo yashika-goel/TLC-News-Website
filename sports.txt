@@ -1,0 +1,73 @@
+<html>
+<head>
+<title>TLC  News</title>
+<h1 align="center"><font size = "8"><font color = "Red" face = "League Spartan"><b>TLC</b></font><font color = "#000080" face = "Julius Sans One">News</font></font></h1>
+<body bgcolor="White">
+<font size = "6"> 
+<p align="center">
+<table border="0" Cellpadding="20" bgcolor="yellow">
+<tr>
+<th bgcolor="red"> <a href="home.html">HOME</a href="home.html"> 
+ <th> <a href="fashion.html">FASHION</a href="fashion.html"> 
+<th> <a href="travel.html">TRAVEL</a href="travel.html"> 
+<th> <a href="food.html">FOOD</a href="food.html"> 
+<th> <a href="lifestyle.html">LIFESTYLE</a href="lifestyle.html">
+<th> <a href="sports.html">SPORTS</a href="sports.html">
+<th> <a href="health.html">HEALTH</a href="health.html">
+<th> <a href="movies.html">MOVIES</a href="movies.html">
+<th> <a href="about us.html">ABOUT US</a href="about us.html">
+</tr>
+</table>
+</font> 
+</p>
+<h1 align="center"><font size = "7"><font color = "Orange" face = "aquawax" ><u>Today News Bulletins</u> </font></h1>
+<p>
+<marquee behaviour="scroll"> <b><Font Color = "Blue"> Breaking News: Miss Grand Argentina and Miss Grand Puerto Rico 2020 get married.  </b></marquee>
+<body align = "center">
+<p>
+<hr>
+<body>
+<p> <font face="arial"  size="6">
+<b> 1.	 Andy Murray grinds down Kokkinakis in late-night epic </b><br> <img src="5.webp" width="350" height="300"> </img> <br>
+<font size = "2">
+Former world number one Andy Murray produced one of his greatest ever comebacks to sink home hope Thanasi Kokkinakis in a titanic second-round 
+thriller at the Australian Open in the early hours of Friday morning. When Murray finally got the job done in what was his 250th Grand Slam match, 
+the clock was just past 4.05am local time but a sizeable and vociferous crowd had remained glued to their seats inside the Margaret Court Arena.
+
+</font>
+</p>
+<hr>
+<p>		
+<b> 2. We are just making our lives so much more difficult’ – Leclerc calls on Ferrari to ‘improve now’ after Montreal Q2 exit </b><br>
+<img src="7.jpg" width="350" height="300"> </img> <br>
+<font size = "2">
+A furious Charles Leclerc implored Ferrari to “improve now” after the Monegasque failed to reach Q3 for a second consecutive race – 
+Leclerc finishing qualifying in P11 for Sunday’s Canadian Grand Prix.
+Leclerc – who qualified P19 for the Spanish Grand Prix last time out – was circulating around Montreal’s Circuit Gilles Villeneuve in mixed conditions 
+in the Q2 segment of qualifying. But with the track half-wet and half-dry, Leclerc radioed to Ferrari to ask to make the move onto slick tyres – 
+a call also made by the likes of Williams driver Alex Albon.
+However, Leclerc’s request wasn’t immediately heeded – and while Albon was able to top the segment and progress to Q3, Leclerc stayed out to 
+set a lap on the intermediates, before finding himself pushed into the drop zone after changing onto the slick tyres late on.
+</font>
+</p>
+<hr>
+<p>
+<b> 3. The fact that the next best score wasn’t even 40’, ‘Out of the world’, ‘Chabuk’: Indian team reacts to Shubman Gill’s double hundred </b><b>
+<img src="4.jpg" width="350" height="300"> </img> <br>
+<font size = "2">
+Shubman Gill became only the fifth Indian to score a double hundred on Wednesday in the first ODI against New Zealand in Hyderabad. 
+A knock that propelled India to 349 in the first innings, eventually helping the hosts claim a 12 run win and win him the player of the match award.
+Former India captain Virat Kohli, also showered high praise for the 23-year-old.
+<br>
+</font>
+</p>
+<hr>
+<p>
+
+<hr>
+<p align="center"> <font size = "2">
+Copyright 2023, All Right Reserved, www.tlcnewsofficial, Designed by : YASHIKA GOEL
+</font> 
+</p>
+</body>
+</html>
