@@ -28,6 +28,8 @@
 <hr>
 <body>
 <p> <font face="arial"  size="6">
+<h1 align="center"><font size="7";color="black"> FOOD </font></h1>
+<hr>
 <b> 1.13,990 sq ft pizza named as world's largest by Guinness World Records
  <img src="6.jpg" width="350" height="300"> </img> <br>
 <font size = "2">
