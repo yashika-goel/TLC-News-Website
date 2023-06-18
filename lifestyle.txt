@@ -28,6 +28,8 @@
 <hr>
 <body>
 <p> <font face="arial"  size="6">
+<h1 align="center"><font size="7";color="black"> LIFESTYLE </font></h1>
+<hr>
 <b> 1. Neither any type nor any amount of alcohol is safe, can cause cancer: WHO
  <img src="8.webp" width="350" height="300"> </img> <br>
 <font size = "2">
